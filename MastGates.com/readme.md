@@ -1,4 +1,4 @@
-Tom Luque of MastGates.com did this early work for a nice 3D-printed enclosure to use in conjunction with the Generation 3 regulator.
+Tom Luque of [MastGates.com](http://www.mastgates.com/)  did this early work for a nice 3D-printed enclosure to use in conjunction with the Generation 3 regulator.
 
 After it became apparent that 3D printing was not really a viable approach the regulator was resized to fit existing commercial cases.  Even so Tom kindly passed on his design files with the following note:
 
@@ -9,6 +9,6 @@ Thank you Tom, sorry this did not work out to a more ongoing approach but do app
 
  
 Tom Luque
-Electronic Control Systems / MastGates.com
+Electronic Control Systems / [MastGates.com](http://www.mastgates.com/)
  3823 NW 32nd Ave
  Camas, WA  98607
